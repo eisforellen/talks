@@ -1,11 +1,10 @@
-# talks
-## Conference Talks ##
-### Previous Talks ###
+# Conference Talks #
+## Previous Talks ##
 | Conference | Talk Title | Location | Year |
 | :--------: | :--------: | :------: | :--: |
 | [SelfConference](http://selfconference.org/) | Embrace the Suck: Thoughts on Perseverance from a Junior Dev | Detroit, MI | 2017 |
 
-### Future Talks
+## Future Talks ##
 | Conference | Talk Title | Location | Year |
 | :--------: | :--------: | :------: | :--: |
 | [Code PaLOUsa](http://www.codepalousa.com/) | Embrace the Suck: Thoughts on Perseverance from a Junior Dev | Louisville, KY | 2017 |
