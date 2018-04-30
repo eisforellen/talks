@@ -8,10 +8,5 @@
 | [360iDev](https://360idev.com/) | Embrace the Suck: Thoughts on Perseverance from a Junior Dev | Denver, CO | 2017 |
 | [Code Mash](http://www.codemash.org/) | Let's Augment Reality in Unreal Engine | Sandusky, OH | 2018 |
 | [NDC London](https://ndc-london.com/) | Xcode to Unreal Engine - Lessons Learned from Doing the Impossible | London, UK | 2018 |
-
-
-## Future Talks ##
-| Conference | Talk Title | Location | Year |
-| :--------: | :--------: | :------: | :--: |
 | [iOSCon](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | Decoding Codable | London, UK | 2018 |
 
