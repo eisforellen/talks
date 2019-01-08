@@ -11,11 +11,12 @@
 | [iOSCon](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | Decoding Codable | London, UK | 2018 |
 | [SelfConference](http://selfconference.org/) | WIP: Debugging Depression | Detroit, MI | 2018 |
 | [360iDev](https://360idev.com/) | Decoding Codable | Denver, CO | 2018 |
+| [NDC Sydney](https://ndcsydney.com/) | WIP: Debugging Depression | Sydney, Australia | 2018 |
 
 
 ## Upcoming Talks ##
 | Conference | Talk Title | Location | Year |
 | :--------: | :--------: | :------: | :--: |
-| [NDC Sydney](https://ndcsydney.com/) | WIP: Debugging Depression | Sydney, Australia | 2018 |
+| [iOSCon](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers) | A Developer's Guide to Debugging Mental Health | London, UK | 2019 |
 
 
