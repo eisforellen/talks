@@ -17,6 +17,6 @@
 ## Upcoming Talks ##
 | Conference | Talk Title | Location | Year |
 | :--------: | :--------: | :------: | :--: |
-| [iOSCon](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers) | A Developer's Guide to Debugging Mental Health | London, UK | 2019 |
-
+| [THAT Conference](https://www.thatconference.com/) | All! The! New! Things!: Using MVVM, Flow-Coordinators, and RxSwift to create a completely dynamic UI | Wisconsin Dells, WI | 2019 |
+| [Abstractions](https://abstractions.io/) | Embrace the Suck: Thoughts on Perseverance | Pittsburgh, PA | 2019 |
 
