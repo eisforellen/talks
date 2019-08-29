@@ -12,11 +12,7 @@
 | [SelfConference](http://selfconference.org/) | WIP: Debugging Depression | Detroit, MI | 2018 |
 | [360iDev](https://360idev.com/) | Decoding Codable | Denver, CO | 2018 |
 | [NDC Sydney](https://ndcsydney.com/) | WIP: Debugging Depression | Sydney, Australia | 2018 |
-
-
-## Upcoming Talks ##
-| Conference | Talk Title | Location | Year |
-| :--------: | :--------: | :------: | :--: |
 | [THAT Conference](https://www.thatconference.com/) | All! The! New! Things!: Using MVVM, Flow-Coordinators, and RxSwift to create a completely dynamic UI | Wisconsin Dells, WI | 2019 |
 | [Abstractions](https://abstractions.io/) | Embrace the Suck: Thoughts on Perseverance | Pittsburgh, PA | 2019 |
+| [Abstractions](https://abstractions.io/) | All! The! New! Things!: Using MVVM, Flow-Coordinators, and RxSwift to create a completely dynamic UI | Pittsburgh, PA | 2019 |
 
